@@ -15,5 +15,5 @@ usage: [-l <local url>] [-t <target url>] [-n]
 * In clone directory:
 
 ```
-sbt run [options]
+sbt "run [options]"
 ```
